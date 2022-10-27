@@ -5,11 +5,11 @@
 <h5 align="center">A undergraduate student of Software engineering program from Serbia</h3>
 
 
- 🕵️ I'm now trying to figure out what I enjoy and what I want to do.
- 📈 I'm studying data science at the moment.
- 🎨 I'm seeking allies for innovative, graphic projects.
- 📧 How to reach me: stamenkovic.tamara00@gmail.com
- 🛋️ Fun fact: I really enjoy assembling furniture.
+- 🕵️ I'm now trying to figure out what I enjoy and what I want to do.
+- 📈 I'm studying data science at the moment.
+- 🎨 I'm seeking allies for innovative, graphic projects.
+- 📧 How to reach me: stamenkovic.tamara00@gmail.com
+- 🛋️ Fun fact: I really enjoy assembling furniture.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamarast00&label=Profile%20views&color=0e75b6&style=flat" alt="tamarast00" /> </p>
 
