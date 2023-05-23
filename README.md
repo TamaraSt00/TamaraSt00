@@ -6,8 +6,8 @@
 
 
 - 🕵️ I'm now trying to figure out what I enjoy and what I want to do.
-- 📈 I'm studying data science at the moment.
-- 🎨 I'm seeking allies for innovative, graphic projects.
+- 📈 I'm a software and data engineering graduate.
+- 🎨 Seeking allies for innovative, graphic projects.
 - 📧 How to reach me: stamenkovic.tamara00@gmail.com
 - 🛋️ Fun fact: I really enjoy assembling furniture.
 
